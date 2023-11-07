@@ -1,0 +1,12 @@
+table,
+th,
+td {
+    border: 2px solid cadetblue;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    width: 50px;
+    font-size: 25px;
+}
