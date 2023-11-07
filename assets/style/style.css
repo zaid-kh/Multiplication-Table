@@ -10,3 +10,11 @@ th {
     width: 50px;
     font-size: 25px;
 }
+
+th {
+    color: darkgreen;
+}
+
+td:hover {
+    background-color: burlywood;
+}
